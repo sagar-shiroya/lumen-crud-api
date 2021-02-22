@@ -1,0 +1,8 @@
+https://prnt.sc/1040h2h //Add candidate(Header values correct)
+https://prnt.sc/1040hsh //Add candidate(Post Request params)
+https://prnt.sc/1040ifp //Validation errors
+https://prnt.sc/1040jgm //Validation errors
+https://prnt.sc/1040k8p //Provided wrong token value in the header
+https://prnt.sc/1040l5g //Get candidate by ID
+https://prnt.sc/1040lrx //Get candidate by page and limit
+https://prnt.sc/1040map //Search candidate
